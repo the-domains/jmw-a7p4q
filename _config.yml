@@ -6,9 +6,10 @@ color:
   saturation: 0.36728803743608296
   rhythmicContrast: 0.275028508156538
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: jmw
+title: Homogenous design FTW
