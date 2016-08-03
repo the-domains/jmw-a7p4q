@@ -1,0 +1,14 @@
+layout_spectrum: 0.43009875575080514
+typography_spectrum: 0.465255209710449
+color:
+  brandStrength: 0.4041485828347504
+  lightness: 0.8494908094871789
+  saturation: 0.36728803743608296
+  rhythmicContrast: 0.275028508156538
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: jmw
