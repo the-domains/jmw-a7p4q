@@ -1,4 +1,3 @@
-layout_spectrum: 0.43009875575080514
 typography_spectrum: 0.465255209710449
 color:
   brandStrength: 0.4041485828347504
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.43009875575080514
 name: jmw
 title: Homogenous design FTW
+description: Because who wants something unique?
